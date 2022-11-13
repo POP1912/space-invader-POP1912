@@ -8,3 +8,8 @@ Space Invaders is a fixed shooter in which the player moves a laser cannon horiz
 
 Use the arrows to move the player and space to shoot.
 
+##Screenshots
+
+![Play Screen](https://raw.githubusercontent.com/POP1912/space-invader-POP1912/main/screenshots/main-screen.png)
+
+![End Screen](https://raw.githubusercontent.com/POP1912/space-invader-POP1912/main/screenshots/game_over.jpg)
